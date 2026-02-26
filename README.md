@@ -74,7 +74,7 @@
 
 ---
 
-## 🏅 LeetCode Stats
+## LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/arunkumar-c?theme=dark&font=Nunito&ext=heatmap" />
@@ -82,7 +82,7 @@
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arunkumareswari&theme=tokyo-night&hide_border=true" />
